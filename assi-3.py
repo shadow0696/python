@@ -1,16 +1,16 @@
 
 #calculate Factorial of number 
-# def factorial(a):
-#     if(a<2):
-#          return 1
-#     else:
-#          return a*(factorial(a-1))
+def factorial(a):
+    if(a<2):
+         return 1
+    else:
+         return a*(factorial(a-1))
 
-# a=int(input("Enter a number :"))
+a=int(input("Enter a number :"))
 
-# fac=factorial(a)
+fac=factorial(a)
 
-# print(f"factorial of {a} is:",fac)
+print(f"factorial of {a} is:",fac)
 
 #Using math Module for calculation 
 from math import *
