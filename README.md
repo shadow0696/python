@@ -23,8 +23,13 @@ sum of interger from 1 to 50
 
 assigment:-3
 calculate factorial using function
-    1 taken a number input from user 
-    2 define a function 
-    3 in function use if 
+    1  define a function 
+    2  in function use if and else 
+    3  find factorial by formual :- n*n-1
+    4  call the function
+Using Math Module for calculation 
+    1 import math 
+    2 take a number input from user 
+    3 by math module calculate and print squre root,log,sine
 
   
