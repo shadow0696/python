@@ -32,4 +32,20 @@ assigment 1 :-
     2 take a number input from user 
     3 by math module calculate and print squre root,log,sine
 
+
+....Assigment:-4
+....Read a File and Handle Errors
+    1 open the file in read mode using open function 
+    2 print it's content by using filename.read function
+    3 if file not found Handle error using try and except function
+....Write and Append Data to a File 
+    1 open the file with write acces mode 
+    2 using filename.write function write input taken from user
+    3 append data using append funtion 
+    4 print the final content of file 
+
+....Assigment:-5
+....
+    3 
+
   
