@@ -45,7 +45,13 @@ assigment 1 :-
     4 print the final content of file 
 
 ....Assigment:-5
-....
-    3 
+....Create a Dictionary of Student and Strings in Python 
+    1 create a Dictionary as key:-stundent name, value:-Marks 
+    2 taken input from user a name of student by input function
+    3 display the marks by print funtion
+    4 if student not found display " student not found " message 
+....Demonstrate List Slicing 
+    1 First i created a list of 1 to 10 numbers by list() function
+    2 & perfrom the operation that was given 
 
   
